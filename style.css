@@ -10,16 +10,17 @@ body {
   color: #fff;
 }
 
-.video-ad {
-  position: absolute;
-  top: -40%;
-  left: 25%;
-  right: 25%;
+#bgVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
 }
 
 .content-home {
   position: fixed;
-  bottom: 25px;
+  bottom: 50px;
   color: #fff;
   width: 100%;
   padding: 20px;
