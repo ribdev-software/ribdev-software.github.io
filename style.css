@@ -11,7 +11,10 @@ body {
 }
 
 .video-ad {
-  margin-bottom: 100px;
+  position: absolute;
+  top: -40%;
+  left: 25%;
+  right: 25%;
 }
 
 .content-home {
