@@ -10,11 +10,6 @@ body {
   color: #fff;
 }
 
-#bgVideo {
-  position: absolute;
-  bottom: 75%;
-}
-
 .content-home {
   position: fixed;
   bottom: 25px;
