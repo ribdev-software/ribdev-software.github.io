@@ -1,3 +1,5 @@
 window.addEventListener('load', function () {
-  document.querySelector(".formFooter").remove();
+  setTimeout(function () {
+    document.querySelector(".formFooter").remove();
+  }, 2000);
 });
