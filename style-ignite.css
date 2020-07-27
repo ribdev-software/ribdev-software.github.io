@@ -201,7 +201,7 @@ h1::after {
     padding-right: 20px;
 }
 
-.follow span {
+.follow a {
     margin-left: 5px;
     font-size: 14px;
     font-weight: 100;
